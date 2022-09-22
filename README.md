@@ -1,13 +1,19 @@
-# Sample Hardhat Project
+![alt text](img/1.png)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Contract was deployed in Rinkeby test network
+![alt text](img/2.png)
 
-Try running some of the following tasks:
+Added token to my metamask wallet
+![alt text](img/3.png)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Stake
+![alt text](img/4.png)
+
+My balance changed, it's shown in screen too
+![alt text](img/5.png)
+
+Unstake(after some time)
+![alt text](img/6.png)
+
+Tokens + approximately 4 tokens came back
+![alt text](img/7.png)
