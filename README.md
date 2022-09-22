@@ -17,3 +17,6 @@ Unstake(after some time)
 
 Tokens + approximately 4 tokens came back
 ![alt text](img/7.png)
+
+Also there is HARVEST button.
+It returns only rewards.
